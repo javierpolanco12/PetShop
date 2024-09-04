@@ -51,7 +51,4 @@ Aquí podrás contactar en caso tener alguna pregunta al respecto.
 ![](https://raw.githubusercontent.com/sgcm14/Tienda-Virtual/master/doc/contacto.png)
 > Pantalla de **Contacto**
 
-**Realizado por :** Sammy Gigi Cantoral Montejo (sgcm14)
-
-<img src ="https://raw.githubusercontent.com/sgcm14/sgcm14/main/sammy.jpg" width="200">
 
